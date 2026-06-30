@@ -13,4 +13,4 @@ python calculadora.py
 ```bash
 python -m unittest test_calculadora.py
 ```
-se agrego una mejora al proyecto.
+Se agrego una mejora al proyecto.
